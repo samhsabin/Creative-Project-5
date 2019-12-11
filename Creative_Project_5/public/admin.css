@@ -1,0 +1,20 @@
+.imageX{
+    width: 15px;
+}
+
+.sameLine{
+    display: inline-block;
+}
+
+.smallImg{
+    width: 150px;
+}
+
+.pageMargin {
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.itemMargin {
+    margin-bottom: 40px;
+}
